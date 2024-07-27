@@ -1,4 +1,3 @@
-![python](https://github.com/user-attachments/assets/b25ad7a4-a3ec-4ff3-9613-f2fa4bfe83a8)
 ## Hi there 👋
 
 <!--
