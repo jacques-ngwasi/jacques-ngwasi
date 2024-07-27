@@ -1,3 +1,4 @@
+![python](https://github.com/user-attachments/assets/b25ad7a4-a3ec-4ff3-9613-f2fa4bfe83a8)
 ## Hi there 👋
 
 <!--
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![](https://hit.yhype.me/github/profile?user_id=172331317)
+-->
+![](https://hit.yhype.me/github/profile?user_id=172331317)
