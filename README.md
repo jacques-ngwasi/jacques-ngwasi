@@ -1,5 +1,4 @@
-
-![d481f3c72e283309071f79e01b05c06d](https://github.com/user-attachments/assets/64b0d11c-8156-47b5-8ce5-f36c529e7d0e)
+https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif
 
 <h1 align="center">Hi 👋, I'm jacques-ngwasi</h1>
 <h3 align="center">A passionate full developer from uganda/kampala</h3>
