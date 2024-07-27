@@ -1,5 +1,4 @@
-https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif
-
+![Uploading coding-skills-loading-dk68v8z0hevjpuiv.gif…]()
 <h1 align="center">Hi 👋, I'm jacques-ngwasi</h1>
 <h3 align="center">A passionate full developer from uganda/kampala</h3>
 <img align="right" alt="Coding" width="1000" height="350" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"
