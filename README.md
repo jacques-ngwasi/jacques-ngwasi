@@ -2,7 +2,7 @@
 ![coding-skills-loading-dk68v8z0hevjpuiv](https://github.com/user-attachments/assets/2790d18a-7a0a-418d-92b6-880b22765825)
 
 <h1 align="center">Hi 👋, I'm jacques-ngwasi</h1>
-<h3 align="center">A passionate full developer from uganda/kampala</h3>
+<h3 align="center">A passionate web developer from uganda/kampala</h3>
 <img align="right" alt="Coding" width="1000" height="350" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacques-ngwasi&label=Profile%20views&color=0e75b6&style=flat" alt="jacques-ngwasi" /> </p>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **react native, next js,**
 
-- 💬 Ask me about **html,css**
+- 💬 Ask me about **html,css,mysql, computer repair, IT supports **
 
 - 📫 How to reach me **jacquesmasheka@gmail.com**
 
